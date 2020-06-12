@@ -3,6 +3,13 @@
  内容包括电子版的作业、实验报告、代码等。  
  *This is a public repo for my classmates to upload their codes, docs, ideas and so on.But mostly reports and homework.*  
  友情提示：请多使用[百度](https://www.baidu.com)或[Google](https://www.google.com)  
+ 个人使用的在线工具/网站分享：
+ 1. [文档、图片格式转换](http://www.pdfdo.com/doc-to-pdf.aspx)
+ 2. [pdf压缩](https://www.ilovepdf.com/zh-cn/compress_pdf)
+ 3. [在线免费文档翻译](https://www.onlinedoctranslator.com/)
+ 4. [ppt模板](http://www.1ppt.com/)
+ 5. [图像文字识别](https://zhcn.109876543210.com/)
+ 6. [免费的游戏开发2d、3d、ui、音效素材（大概这个班除了我也没人需要吧）](https://kenney.nl/)
  ```
  print("你好 世界")  
  print("Hello world!")  
