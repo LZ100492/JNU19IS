@@ -13,7 +13,7 @@
  7. [创世之书——shader最强编写教材](https://thebookofshaders.com/)
  8. [easy-icon，轻量级图标素材网站，部分收费](https://www.easyicon.net/)
  9. [建模界黑马blender](https://www.blender.org/download/)
- 10. [线稿自动上色](https://petalica-paint.pixiv.dev/index_zh.html)https://artbreeder.com/browse
+ 10. [线稿自动上色](https://petalica-paint.pixiv.dev/index_zh.html)
  11. [AI图片生成——获取免费的头像、游戏素材、背景、贴图、立绘！大多数很抽象派，但也有很多独具欣赏价值](https://artbreeder.com/browse)
  ```
  print("你好 世界")  
