@@ -5,7 +5,7 @@
  友情提示：请多使用[百度](https://www.baidu.com)或[Google](https://www.google.com)  
  个人使用的在线工具/网站分享：
  1. [文档、图片格式转换](http://www.pdfdo.com/doc-to-pdf.aspx)
- 2. [pdf压缩](https://www.ilovepdf.com/zh-cn/compress_pdf)
+ 2. [pdf压缩以及各种图片、word、pdf转换工具](https://www.ilovepdf.com/zh-cn/compress_pdf)
  3. [在线免费文档翻译](https://www.onlinedoctranslator.com/)
  4. [ppt模板](http://www.1ppt.com/)
  5. [图像文字识别](https://zhcn.109876543210.com/)
