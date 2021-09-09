@@ -1,4 +1,13 @@
 # JNU19IS
+ 
+ **招新播报**  
+ *因为热爱，所以相聚*。  
+ ROBOZONE萝卜造工作室旨在为国内青少年机器人竞赛提供资讯、指导、服务等，成员均参加过诸如FIRST、VEX、Robomaster机甲大师、格斗机器人等青少年项目（虽然现在都退役了），我们希望为国内青少年科技创新发展、青少年机器人竞赛发展贡献一份力量，让更多人、更多青年少年孩子们认识到机械与程序的魅力，走近世界、走进世界。  
+ 萝卜造有官方b站账号、微信公众号、微博账号，均叫【ROBOZONE萝卜造】，（尽量）持续更新，欢迎关注，另有QQ交流群567065662。  
+ 官网[Robozone](https://www.robozone.com.cn)（近期可能在维护）。  
+ 萝卜造近期准备招新，涵盖宣传、建模设计、程序等内容，不硬性要求有青少年机器人竞赛经历，欢迎咨询和报名。  
+ 如有通过某些渠道看到本条招新通知的，可以联系发布者询问。  
+ 
  **暨大19信安（IS，Information Security）**  
  内容包括电子版的作业、实验报告、代码等。  
  *This is a public repo for my classmates to upload their codes, docs, ideas and so on.But mostly reports and homework.*  
